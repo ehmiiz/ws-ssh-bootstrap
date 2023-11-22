@@ -18,6 +18,5 @@
 
 
 param(
-    [switch]UsePassword,
-    [switch]
+    [switch]$UsePassword
 )
